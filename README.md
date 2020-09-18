@@ -1,5 +1,5 @@
 # REST-API
-Simple project to store data in JASON Format about user login time ,place 
+Simple project to store data in JSON Format about user login time ,place 
 Here Am using Django Rest Framework
 
 The biggest reason to use Django REST Framework is because it makes serialization so easy!
